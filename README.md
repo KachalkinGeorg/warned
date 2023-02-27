@@ -26,4 +26,4 @@
 ![](https://github.com/KachalkinGeorg/warned/blob/main/Screenshot_2.jpg?raw=true)
 
 Список предупреждений в профиле пользователя
-![](https://github.com/KachalkinGeorg/warned/blob/main/Screenshot_2.jpg?raw=true)
+![](https://github.com/KachalkinGeorg/warned/blob/main/Screenshot_3.jpg?raw=true)
