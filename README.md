@@ -27,3 +27,13 @@
 
 Список предупреждений в профиле пользователя
 ![](https://github.com/KachalkinGeorg/warned/blob/main/Screenshot_3.jpg?raw=true)
+
+При заходе на сайт пользователем, который достиг максимальное количество предупреждений и был забанен
+![](https://github.com/KachalkinGeorg/warned/blob/main/Screenshot_4.jpg?raw=true)
+
+-------------------
+Кто желает поблагодарит автора, за данный плагин:
+можете через систему [https://yoomoney.ru/to/4100116753512518](yandex)
+
+СПАСИБО!
+-------------------
